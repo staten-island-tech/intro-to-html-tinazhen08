@@ -1,3 +1,7 @@
-body{
-    color: 
+html,
+body,
+* {
+  padding: 4px;
+  margin: 3px;
+  box-sizing: border-box;
 }
